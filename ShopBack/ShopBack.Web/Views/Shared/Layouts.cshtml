@@ -1,0 +1,116 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Home </title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--===============================================================================================-->
+    <link rel="icon" type="image/png" href="~/Assets/client/images/icons/favicon.png" />
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Assets/client/vendor/bootstrap/css/bootstrap.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Assets/client/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Assets/client/fonts/themify/themify-icons.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Assets/client/fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Assets/client/fonts/elegant-font/html-css/style.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Assets/client/vendor/animate/animate.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Assets/client/vendor/css-hamburgers/hamburgers.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Assets/client/vendor/animsition/css/animsition.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Assets/client/vendor/select2/select2.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Assets/client/vendor/daterangepicker/daterangepicker.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Assets/client/vendor/slick/slick.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Assets/client/vendor/lightbox2/css/lightbox.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Assets/client/css/util.css">
+    <link rel="stylesheet" type="text/css" href="~/Assets/client/css/main.css">
+    <link href="~/Assets/client/css/custom.css" rel="stylesheet" />
+    <!--===============================================================================================-->
+    <style>
+
+        .ui-autocomplete {
+            z-index: 1000;
+        }
+    </style>
+</head>
+<body class="animsition">
+    <!--header-->
+    @{Html.RenderAction("Header", "Home");}
+    <!---->
+    <div>
+        @RenderBody()
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg6 p-t-45 p-b-43 p-l-45 p-r-45">
+        @{ Html.RenderAction("Footer", "Home");}
+    </footer>
+    <script type="text/javascript" src="~/Assets/client/vendor/jquery/jquery-3.2.1.min.js"></script>
+    <!--===============================================================================================-->
+    <script type="text/javascript" src="~/Assets/client/vendor/animsition/js/animsition.min.js"></script>
+    <!--===============================================================================================-->
+    <script type="text/javascript" src="~/Assets/client/vendor/bootstrap/js/popper.js"></script>
+    <script type="text/javascript" src="~/Assets/client/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!--===============================================================================================-->
+    <script type="text/javascript" src="~/Assets/client/vendor/select2/select2.min.js"></script>
+    <script type="text/javascript">
+        $(".selection-1").select2({
+            minimumResultsForSearch: 20,
+            dropdownParent: $('#dropDownSelect1')
+        });
+    </script>
+    <!--===============================================================================================-->
+    <!--===============================================================================================-->
+    <script type="text/javascript" src="~/Assets/client/vendor/slick/slick.min.js"></script>
+    <script type="text/javascript" src="~/Assets/client/js/slick-custom.js"></script>
+    <!--===============================================================================================-->
+    <script type="text/javascript" src="~/Assets/client/vendor/countdowntime/countdowntime.js"></script>
+    <!--===============================================================================================-->
+    <script type="text/javascript" src="~/Assets/client/vendor/lightbox2/js/lightbox.min.js"></script>
+    <!--===============================================================================================-->
+    <script type="text/javascript" src="~/Assets/client/vendor/sweetalert/sweetalert.min.js"></script>
+    <script type="text/javascript">
+        $('.block2-btn-addcart').each(function () {
+            var nameProduct = $(this).parent().parent().parent().find('.block2-name').html();
+            $(this).on('click', function () {
+                swal(nameProduct, "is added to cart !", "success");
+            });
+        });
+
+        $('.block2-btn-addwishlist').each(function () {
+            var nameProduct = $(this).parent().parent().parent().find('.block2-name').html();
+            $(this).on('click', function () {
+                swal(nameProduct, "is added to wishlist !", "success");
+            });
+        });
+    </script>
+
+    <!--===============================================================================================-->
+    <script type="text/javascript" src="~/Assets/client/vendor/parallax100/parallax100.js"></script>
+    <script type="text/javascript">
+        $('.parallax100').parallax100();
+    </script>
+    <!--===============================================================================================-->
+    <script src="~/Assets/client/js/main.js"></script>
+    @*<script src="~/Assets/client/js/jquery.min.js"></script>
+        <script src="~/Assets/admin/libs/jquery-ui/jquery-ui.min.js"></script>
+        <script src="~/Assets/admin/libs/mustache/mustache.js"></script>
+        <script src="~/Assets/admin/libs/numeral/numeral.js"></script>
+        <script src="~/Assets/admin/libs/jquery-validation/dist/jquery.validate.js"></script>
+        <script src="~/Assets/admin/libs/jquery-validation/dist/additional-methods.min.js"></script>
+        <script src="~/Assets/client/js/common.js"></script>*@
+    @Scripts.Render("~/js/jquery")
+    @Scripts.Render("~/js/plugins")
+    @RenderSection("footerJS", required: false)
+</body>
+</html>

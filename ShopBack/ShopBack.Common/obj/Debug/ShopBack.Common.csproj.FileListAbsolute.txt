@@ -1,0 +1,23 @@
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Common\bin\Debug\ShopBack.Common.dll
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Common\bin\Debug\ShopBack.Common.pdb
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Common\obj\Debug\ShopBack.Common.dll
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Common\obj\Debug\ShopBack.Common.pdb
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Common\obj\Debug\ShopBack.Common.csprojAssemblyReference.cache
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Common\bin\Debug\ShopBack.Common.dll
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Common\bin\Debug\ShopBack.Common.pdb
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Common\obj\Debug\ShopBack.Common.csproj.CoreCompileInputs.cache
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Common\obj\Debug\ShopBack.Common.dll
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Common\obj\Debug\ShopBack.Common.pdb
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Common\obj\Debug\ShopBack.Common.csprojAssemblyReference.cache
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Common\bin\Debug\ShopBack.Common.dll
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Common\bin\Debug\ShopBack.Common.pdb
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Common\obj\Debug\ShopBack.Common.csproj.CoreCompileInputs.cache
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Common\obj\Debug\ShopBack.Common.dll
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Common\obj\Debug\ShopBack.Common.pdb
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Common\obj\Debug\ShopBack.Common.csprojAssemblyReference.cache
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Common\bin\Debug\ShopBack.Common.dll
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Common\bin\Debug\ShopBack.Common.pdb
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Common\obj\Debug\ShopBack.Common.csproj.CoreCompileInputs.cache
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Common\obj\Debug\ShopBack.Common.dll
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Common\obj\Debug\ShopBack.Common.pdb
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Common\obj\Debug\ShopBack.Common.csprojAssemblyReference.cache

@@ -1,0 +1,42 @@
+﻿@model ShopBack.Web.Models.LoginViewModel
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/Layouts.cshtml";
+}
+<div class="col-md-6 p-b-30">
+    
+        <h4 class="m-text26 p-b-36 p-t-15">Đăng nhập</h4>
+        @using (Html.BeginForm("Login", "Account", new { returnUrl = @ViewBag.ReturnUrl }, FormMethod.Post))
+        {
+            @Html.ValidationSummary(false, "", new { @class = "error" })
+            <div class="bo4 of-hidden size15 m-b-20">
+                <input class="sizefull s-text7 p-l-22 p-r-22" @Html.TextBoxFor(model => model.UserName)>
+            </div>
+            <div class="bo4 of-hidden size15 m-b-20">
+                <input class="sizefull s-text7 p-l-22 p-r-22" @Html.PasswordFor(model => model.Password)>
+            </div>
+            <div>
+                @Html.CheckBoxFor(model => model.RememberMe)
+            </div>
+            <a href="#">Forgot Your Password?</a>
+            <br />
+            <div class="w-size25">
+                <!-- Button -->
+                <button type="submit" class="flex-c-m size2 bg1 bo-rad-23 hov1 m-text3 trans-0-4">
+                    Đăng Nhập
+                </button>
+            </div>
+
+        }
+        @Html.Partial("_ExternalLoginsListPartial", new ShopBack.Web.Models.ExternalLoginListViewModel { ReturnUrl = ViewBag.ReturnUrl })
+    
+</div>
+
+<div class="col-md-6 p-b-30">
+    <h4 class="m-text26 p-b-36 p-t-15">Chưa có tài khoản?</h4>
+    <p>Nếu bạn chưa có tài khoản vui lòng đăng ký tại link này:</p>
+    <a class="acount-btn" href="/dang-ky.html"><h4><strong>!!! Đăng ký thành viên !!!</strong></h4></a>
+</div>
+
+
+
