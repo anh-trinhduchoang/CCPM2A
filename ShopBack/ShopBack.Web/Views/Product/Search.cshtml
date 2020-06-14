@@ -1,0 +1,132 @@
+﻿@model ShopBack.Web.Infrastructure.Core.PaginationSet<ShopBack.Web.Models.ProductViewModel>
+@{
+    var keyword = (string)ViewBag.Keyword;
+    ViewBag.Title = "Kết quả tìm kiếm cho từ khóa " + keyword;
+    ViewBag.MetaKeyword = "Kết quả tìm kiếm cho từ khóa " + keyword;
+    ViewBag.MetaDescription = "Kết quả tìm kiếm cho từ khóa " + keyword;
+    Layout = "~/Views/Shared/Layouts.cshtml";
+}
+
+<section class="bgwhite p-t-55 p-b-65">
+
+            <div class="col-sm-6 col-md-8 col-lg-9 p-b-50">
+                <!--  -->
+                <div class="flex-sb-m flex-w p-b-35">
+                    <div class="flex-w">
+                        <div class="rs2-select2 bo4 of-hidden w-size12 m-t-5 m-b-5 m-r-10">
+                            <select id="sorting" class="selection-2" name="sorting" onchange="location = options[selectedIndex].value;">
+                                <option hidden>Sắp xếp</option>
+                                <option value="?page=@Model.Page&sort=popular">Phổ biến</option>
+                                <option value="?page=@Model.Page&sort=new">Mới nhất</option>
+                                <option value="?page=@Model.Page&sort=discount">Khuyến mãi</option>
+                                <option value="@Model.Page&sort=price">Giá: Thấp -> Cao</option>
+                            </select>
+                        </div>
+
+                        <div class="rs2-select2 bo4 of-hidden w-size12 m-t-5 m-b-5 m-r-10">
+                            <select class="selection-2" name="sorting">
+                                <option>Price</option>
+                                <option>$0.00 - $50.00</option>
+                                <option>$50.00 - $100.00</option>
+                                <option>$100.00 - $150.00</option>
+                                <option>$150.00 - $200.00</option>
+                                <option>$200.00+</option>
+
+                            </select>
+                        </div>
+                    </div>
+
+                    <span class="s-text8 p-t-5 p-b-5">
+                        Kết quả tìm kiếm: @keyword - <span>
+                            @Model.TotalCount sản phẩm
+                    </span>
+</div>
+                @if (Model.Count > 0)
+                {
+                    <div class="row">
+                        @foreach (var product in Model.Items)
+                        {
+                            var url = "/" + product.Alias + ".p-" + product.ID + ".html";
+                            <div class="col-sm-12 col-md-6 col-lg-4 p-b-50">
+                                <!-- Block2 -->
+                                <div class="block2">
+                                    <div class="block2-img wrap-pic-w of-hidden pos-relative block2-labelsale">
+                                        <img src="@product.Image" alt="IMG-PRODUCT">
+
+                                        <div class="block2-overlay trans-0-4">
+                                            <a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
+                                                <i class="icon-wishlist icon_heart_alt" aria-hidden="true"></i>
+                                                <i class="icon-wishlist icon_heart dis-none" aria-hidden="true"></i>
+                                            </a>
+
+                                            <div class="block2-btn-addcart w-size1 trans-0-4">
+                                                <!-- Button -->
+                                                <button class="flex-c-m size1 bg4 bo-rad-23 hov1 s-text1 trans-0-4">
+                                                    Add to Cart
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="block2-txt p-t-20">
+                                        <a href="@url" class="block2-name dis-block s-text3 p-b-5">
+                                            @product.Name
+                                        </a>
+
+                                        <span class="block2-oldprice m-text7 p-r-5">
+                                            @(product.Price == 0 ? "Liên hệ" : product.Price.ToString("N2"))
+                                        </span>
+
+                                        <span class="block2-newprice m-text8 p-r-5">
+                                            @(product.PromotionPrice == 0 ? "Liên hệ" : product.PromotionPrice.Value.ToString("N2"))
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                        @if (Model.TotalPages > 1)
+                        {
+                            // Create numeric links
+                            var startPageIndex = Math.Max(1, Model.Page - Model.MaxPage / 2);
+                            var endPageIndex = Math.Min(Model.TotalPages, Model.Page + Model.MaxPage / 2);
+                            <div class="pagination flex-m flex-w p-t-26">
+                                @if (Model.Page > 1)
+                                {
+                                    <a href="?page=1" class="item-pagination flex-c-m trans-0-4 active-pagination">1</a>
+                                    <a href="?page=@(Model.Page - 1)" class="item-pagination flex-c-m trans-0-4">2</a>
+                                }
+
+                                @for (int i = startPageIndex; i <= endPageIndex; i++)
+                                {
+                                    if (Model.Page == i)
+                                    {
+                                        <li class="active"><a href="?page=@i" title="Trang @i">@i</a></li>
+                                    }
+                                    else
+                                    {
+                                        <li><a href="?page=@i" title="Trang @i">@i</a></li>
+                                    }
+                                }
+                                @if (Model.Page < Model.TotalPages)
+                                {
+                                    <li>
+                                        <a href="?page=@(Model.Page + 1)" aria-label="Next">
+                                            <i class="fa fa-angle-double-right"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="?page=@Model.TotalPages" aria-label="Last">
+                                            <i class="fa fa-angle-double-right"></i>
+                                        </a>
+                                    </li>
+                                }
+                            </div>
+                        }
+                    </div>
+                }
+                else
+                {
+                    <div class="text-center">Không có bản ghi nào được tìm thấy.</div>
+                }
+            </div>
+</section>
