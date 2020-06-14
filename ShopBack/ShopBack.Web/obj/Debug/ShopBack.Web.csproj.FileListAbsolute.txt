@@ -556,7 +556,3 @@ C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Web\bin\Micros
 C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Web\bin\Microsoft.Owin.Security.Google.dll
 C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Web\bin\Microsoft.Owin.Security.Facebook.xml
 C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Web\bin\Microsoft.Owin.Security.Google.xml
-D:\Tài liệu\New project\ShopBack\ShopBack.Web\obj\Debug\ShopBack.Web.csprojAssemblyReference.cache
-D:\Tài liệu\New project\ShopBack\ShopBack.Web\obj\Debug\ShopBack.Web.csproj.CoreCompileInputs.cache
-D:\Tài liệu\New project\ShopBack\ShopBack.Web\obj\Debug\ShopBack.Web.dll
-D:\Tài liệu\New project\ShopBack\ShopBack.Web\obj\Debug\ShopBack.Web.pdb

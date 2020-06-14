@@ -1,7 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Xml.Linq;
-using TeduShop.Model.Abstract;
+using ShopBack.Model.Abstract;
 
 namespace ShopBack.Model.Models
 {
@@ -41,8 +45,13 @@ namespace ShopBack.Model.Models
         public bool? HomeFlag { set; get; }
         public bool? HotFlag { set; get; }
         public int? ViewCount { set; get; }
+        public string Tags { set; get; }
+        public int Quantity { set; get; }
+        public decimal OriginalPrice { set; get; }
+
 
         [ForeignKey("CategoryID")]
         public virtual ProductCategory ProductCategory { set; get; }
+        public virtual IEnumerable<ProductTag> ProductTags { set; get; }
     }
 }

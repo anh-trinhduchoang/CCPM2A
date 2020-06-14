@@ -1,6 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using TeduShop.Model.Abstract;
+using ShopBack.Model.Abstract;
 
 namespace ShopBack.Model.Models
 {
@@ -37,5 +42,7 @@ namespace ShopBack.Model.Models
 
         [ForeignKey("CategoryID")]
         public virtual PostCategory PostCategory { set; get; }
+
+        public virtual IEnumerable<PostTag> PostTags { set; get; }
     }
 }

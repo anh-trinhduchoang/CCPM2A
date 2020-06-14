@@ -136,26 +136,3 @@ C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug
 C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csproj.CopyComplete
 C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.dll
 C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.pdb
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Data.dll.config
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Data.dll
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Data.pdb
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.dll
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.SqlServer.dll
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Common.dll
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Model.dll
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Common.pdb
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Model.pdb
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Model.dll.config
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.xml
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.SqlServer.xml
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csprojAssemblyReference.cache
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.InitialDB.resources
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csproj.GenerateResource.cache
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csproj.CoreCompileInputs.cache
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csproj.CopyComplete
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.dll
-D:\Tài liệu\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.pdb

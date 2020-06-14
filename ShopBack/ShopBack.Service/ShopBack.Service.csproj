@@ -57,7 +57,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ApplicationGroupService.cs" />
+    <Compile Include="ApplicationRoleService.cs" />
+    <Compile Include="CommonService.cs" />
+    <Compile Include="ErrorService.cs" />
+    <Compile Include="obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
+    <Compile Include="PageService.cs" />
+    <Compile Include="PostCategoryService.cs" />
+    <Compile Include="PostService.cs" />
+    <Compile Include="ProductCategoryService.cs" />
+    <Compile Include="ProductService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StatisticService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ShopBack.Common\ShopBack.Common.csproj">
@@ -75,6 +86,39 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="bin\Debug\ShopBack.Data.dll.config" />
+    <None Include="bin\Debug\ShopBack.Model.dll.config" />
+    <None Include="bin\Debug\ShopBack.Service.dll.config" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\ShopBack.Service.csproj.CopyComplete" />
+    <None Include="obj\Debug\ShopBack.Service.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\ShopBack.Service.csprojAssemblyReference.cache" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\EntityFramework.dll" />
+    <Content Include="bin\Debug\EntityFramework.SqlServer.dll" />
+    <Content Include="bin\Debug\EntityFramework.SqlServer.xml" />
+    <Content Include="bin\Debug\EntityFramework.xml" />
+    <Content Include="bin\Debug\Microsoft.AspNet.Identity.Core.dll" />
+    <Content Include="bin\Debug\Microsoft.AspNet.Identity.Core.xml" />
+    <Content Include="bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll" />
+    <Content Include="bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml" />
+    <Content Include="bin\Debug\ShopBack.Common.dll" />
+    <Content Include="bin\Debug\ShopBack.Common.pdb" />
+    <Content Include="bin\Debug\ShopBack.Data.dll" />
+    <Content Include="bin\Debug\ShopBack.Data.pdb" />
+    <Content Include="bin\Debug\ShopBack.Model.dll" />
+    <Content Include="bin\Debug\ShopBack.Model.pdb" />
+    <Content Include="bin\Debug\ShopBack.Service.dll" />
+    <Content Include="bin\Debug\ShopBack.Service.pdb" />
+    <Content Include="obj\Debug\ShopBack.Service.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\ShopBack.Service.dll" />
+    <Content Include="obj\Debug\ShopBack.Service.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+    <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

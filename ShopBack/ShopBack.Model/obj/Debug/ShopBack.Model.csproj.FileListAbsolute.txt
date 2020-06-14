@@ -61,7 +61,3 @@ C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Model\obj\Debu
 C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Model\obj\Debug\ShopBack.Model.dll
 C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Model\obj\Debug\ShopBack.Model.pdb
 C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Model\obj\Debug\ShopBack.Model.csprojAssemblyReference.cache
-D:\Tài liệu\New project\ShopBack\ShopBack.Model\obj\Debug\ShopBack.Model.csprojAssemblyReference.cache
-D:\Tài liệu\New project\ShopBack\ShopBack.Model\obj\Debug\ShopBack.Model.csproj.CoreCompileInputs.cache
-D:\Tài liệu\New project\ShopBack\ShopBack.Model\obj\Debug\ShopBack.Model.dll
-D:\Tài liệu\New project\ShopBack\ShopBack.Model\obj\Debug\ShopBack.Model.pdb

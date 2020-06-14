@@ -1,6 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using ShopBack.Model.Abstract;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using TeduShop.Model.Abstract;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace ShopBack.Model.Models
 {

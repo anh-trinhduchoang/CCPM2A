@@ -1,6 +1,10 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-
 namespace ShopBack.Model.Models
 {
     [Table("PostTags")]
@@ -11,7 +15,7 @@ namespace ShopBack.Model.Models
         public int PostID { set; get; }
 
         [Key]
-        [Column(TypeName = "varchar",Order =2)]
+        [Column(TypeName = "varchar", Order = 2)]
         [MaxLength(50)]
         public string TagID { set; get; }
 
