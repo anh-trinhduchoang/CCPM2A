@@ -1,0 +1,73 @@
+﻿@using Microsoft.AspNet.Identity;
+<!-- Header -->
+<header class="header1">
+    <!-- Header desktop -->
+    <div class="container-menu-header">
+        <div class="topbar">
+            <div class="topbar-social">
+                <a href="#" class="topbar-social-item fa fa-facebook"></a>
+                <a href="#" class="topbar-social-item fa fa-instagram"></a>
+                <a href="#" class="topbar-social-item fa fa-pinterest-p"></a>
+                <a href="#" class="topbar-social-item fa fa-snapchat-ghost"></a>
+                <a href="#" class="topbar-social-item fa fa-youtube-play"></a>
+            </div>
+
+            <span class="topbar-child1">
+                Free shipping for standard order over $100
+            </span>
+
+            <div class="topbar-child2">
+                <form method="get" action="/tim-kiem.html">
+                    <input type="text" id="txtKeyword" name="keyword" placeholder="Từ Khóa">
+                    <input type="submit" value="Tìm kiếm" id="btnSearch">
+                </form>
+            </div>
+        </div>
+
+        <div class="wrap_header">
+            <!-- Logo -->
+            <a href="/" class="logo">
+                <img src="~/Assets/client/images/icons/logo.png" alt="IMG-LOGO">
+            </a>
+
+            <!-- Menu -->
+
+            @{Html.RenderAction("Category", "Home");}
+
+
+            <!-- Header Icon -->
+            <div class="header-icons">
+                <a href="#">
+                    @using (Html.BeginForm("LogOut", "Account", FormMethod.Post, new { @id = "frmLogout" }))
+                    {
+                        if (Request.IsAuthenticated)
+                        {
+                            @Html.AntiForgeryToken()
+                            <ul>
+                                <li><a href="/tai-khoan.html"><span> </span>Xin chào: @User.Identity.GetUserName()</a></li>
+                                <li><a href="#" id="btnLogout">Thoát</a></li>
+                            </ul>
+                        }
+                        else
+                        {
+                            <ul>
+                                <li><a href="/dang-nhap.html"><span> </span>Đăng nhập</a></li>
+                                <li><a href="/dang-ky.html">Đăng ký</a></li>
+                            </ul>
+                        }
+                    }
+                </a>
+
+                <span class="linedivide1"></span>
+
+                <div class="header-wrapicon2">
+                    <img src="~/Assets/client/images/icons/icon-header-02.png" class="header-icon1 js-show-header-dropdown" alt="ICON">
+                    <span class="header-icons-noti">0</span>
+
+                    
+                  
+                </div>
+            </div>
+        </div>
+    </div>
+</header>

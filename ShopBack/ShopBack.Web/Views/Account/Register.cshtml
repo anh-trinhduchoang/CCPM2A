@@ -1,0 +1,63 @@
+﻿@model ShopBack.Web.Models.RegisterViewModel
+@using BotDetect.Web.Mvc;
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/Layouts.cshtml";
+}
+<link href="@BotDetect.Web.CaptchaUrls.Absolute.LayoutStyleSheetUrl" rel="stylesheet" type="text/css" />
+@using (Html.BeginForm("Register", "Account", FormMethod.Post))
+{
+    @Html.AntiForgeryToken();
+    @Html.ValidationSummary(false, "", new { @class = "error" })
+
+    if (ViewData["SuccessMsg"] != null)
+    {
+        <div class="alert alert-success" role="alert">
+            <strong>Chúc mừng bạn! </strong> đã đăng ký thành công.
+            <br />Vui lòng click <a href="/dang-nhap.html">vào đây </a>để đăng nhập.
+        </div>
+    }
+<div class="col-md-6 p-b-30">
+
+    <h4 class="m-text26 p-b-36 p-t-15">Thông tin cá nhân</h4>
+    <span>Họ Tên</span>
+    <div class="bo4 of-hidden size15 m-b-20">
+        <input class="sizefull s-text7 p-l-22 p-r-22" @Html.TextBoxFor(model => model.FullName)>
+    </div>
+    <span>Email</span>
+    <div class="bo4 of-hidden size15 m-b-20">
+        <input class="sizefull s-text7 p-l-22 p-r-22" @Html.TextBoxFor(model => model.Email)>
+    </div>
+    <span>Địa Chỉ</span>
+    <div class="bo4 of-hidden size15 m-b-20">
+        <input class="sizefull s-text7 p-l-22 p-r-22" @Html.TextBoxFor(model => model.Address)>
+    </div>
+    <span>Số Điện Thoại</span>
+    <div class="bo4 of-hidden size15 m-b-20">
+        <input class="sizefull s-text7 p-l-22 p-r-22" @Html.TextBoxFor(model => model.PhoneNumber)>
+    </div>
+    <span>Tài Khoản</span>
+    <div class="bo4 of-hidden size15 m-b-20">
+        <input class="sizefull s-text7 p-l-22 p-r-22" @Html.TextBoxFor(model => model.UserName)>
+    </div>
+    <span>Mật Khẩu</span>
+    <div class="bo4 of-hidden size15 m-b-20">
+        <input class="sizefull s-text7 p-l-22 p-r-22" @Html.TextBoxFor(model => model.Password)>
+    </div>
+
+    @{
+        MvcCaptcha registerCaptcha = new MvcCaptcha("registerCaptcha");
+    }
+    @Html.Captcha(registerCaptcha)
+    @Html.TextBox("CaptchaCode")
+    <br />
+    <div class="w-size25">
+        <!-- Button -->
+        <button type="submit" class="flex-c-m size2 bg1 bo-rad-23 hov1 m-text3 trans-0-4">
+            Đăng Ký 
+        </button>
+    </div>
+</div>
+}
+
+

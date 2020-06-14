@@ -1,0 +1,54 @@
+﻿@model IEnumerable<ShopBack.Web.Models.ProductCategoryViewModel>
+    <div class="wrap_menu">
+        <nav class="menu">
+            <ul class="main_menu">                  
+                        @foreach (var category in Model.Where(x => x.ParentID == null))
+                        {
+
+                            var url = "/" + category.Alias + ".pc-" + category.ID + ".html";
+                            var childCategories = Model.Where(x => x.ParentID == category.ID);
+                            <li>
+                                <a href="@url">@category.Name </a>
+                                @if (childCategories.Count() > 0)
+                                {
+                                    <ul class="sub_menu">
+                                        @foreach (var childCategory in childCategories)
+                                        {
+                                            var childUrl = "/" + childCategory.Alias + ".pc-" + childCategory.ID + ".html";
+                                            <li> <a href="@childUrl">@childCategory.Name</a></li>
+                                        }
+                                    </ul>
+                                }
+                            </li>
+                        }
+
+                    <li>
+                        <a href="product.html">Shop</a>
+                    </li>
+
+                    <li class="sale-noti">
+                        <a href="product.html">Sale</a>
+                    </li>
+
+                    <li>
+                        <a href="cart.html">Features</a>
+                    </li>
+
+                    <li>
+                        <a href="blog.html">Blog</a>
+                    </li>
+
+                    <li>
+                        <a href="/gio-hang.html">Giỏ Hàng</a>
+                    </li>
+
+                    <li>
+                        <a href="/trang/gioi-thieu.html">About</a>
+                    </li>
+
+                    <li>
+                        <a href="/lien-he.html">Contact</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
