@@ -1,0 +1,161 @@
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csprojAssemblyReference.cache
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Data.dll.config
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Data.dll
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Data.pdb
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.dll
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Common.dll
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Model.dll
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Common.pdb
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Model.pdb
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Model.dll.config
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.xml
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csproj.CopyComplete
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.dll
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.pdb
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.InitialDB.resources
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csproj.GenerateResource.cache
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.AddErrorTable.resources
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\trinh\source\repos\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.IntergrateAspnetIdentity.resources
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Data.dll.config
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Data.dll
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Data.pdb
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.dll
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Common.dll
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Model.dll
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Common.pdb
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Model.pdb
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Model.dll.config
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.xml
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csprojAssemblyReference.cache
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.InitialDB.resources
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.AddErrorTable.resources
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.IntergrateAspnetIdentity.resources
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.Changkey.resources
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.AddTagField.resources
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.AddContentToSlide.resources
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.AddMoreQuantitty.resources
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.addforeignkey.resources
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csproj.GenerateResource.cache
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csproj.CoreCompileInputs.cache
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csproj.CopyComplete
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.dll
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.pdb
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.ContactDetail.resources
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.Feedback.resources
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.Feedback2.resources
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.AddCustomerId.resources
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.RenameTableIdentity.resources
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.AddGroupUser.resources
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.ChangeOrderDetail.resources
+C:\Users\anhtr\Downloads\Compressed\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.RevenuesStatisticSP.resources
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Data.dll.config
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Data.dll
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Data.pdb
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.dll
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Common.dll
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Model.dll
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Common.pdb
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Model.pdb
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Model.dll.config
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.xml
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csprojAssemblyReference.cache
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.InitialDB.resources
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.AddErrorTable.resources
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.IntergrateAspnetIdentity.resources
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.Changkey.resources
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.AddTagField.resources
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.AddContentToSlide.resources
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.AddMoreQuantitty.resources
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.addforeignkey.resources
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.ContactDetail.resources
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.Feedback.resources
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.Feedback2.resources
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.AddCustomerId.resources
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.RenameTableIdentity.resources
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.AddGroupUser.resources
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.ChangeOrderDetail.resources
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.RevenuesStatisticSP.resources
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csproj.GenerateResource.cache
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csproj.CoreCompileInputs.cache
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csproj.CopyComplete
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.dll
+C:\Users\anhtr\Downloads\Compressed\Đồ án tổng hợp\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.pdb
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Data.dll.config
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Data.dll
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Data.pdb
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.dll
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Common.dll
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Model.dll
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Common.pdb
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Model.pdb
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Model.dll.config
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.xml
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csprojAssemblyReference.cache
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.InitialDB.resources
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.AddErrorTable.resources
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.IntergrateAspnetIdentity.resources
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.Changkey.resources
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.AddTagField.resources
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.AddContentToSlide.resources
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.AddMoreQuantitty.resources
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.addforeignkey.resources
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.ContactDetail.resources
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.Feedback.resources
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.Feedback2.resources
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.AddCustomerId.resources
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.RenameTableIdentity.resources
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.AddGroupUser.resources
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.ChangeOrderDetail.resources
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.RevenuesStatisticSP.resources
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csproj.GenerateResource.cache
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csproj.CoreCompileInputs.cache
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csproj.CopyComplete
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.dll
+C:\Users\anhtr\Downloads\Compressed\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.pdb
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Data.dll.config
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Data.dll
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Data.pdb
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.dll
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Common.dll
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Model.dll
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Common.pdb
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Model.pdb
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\ShopBack.Model.dll.config
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.xml
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csprojAssemblyReference.cache
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.Migrations.InitialDB.resources
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csproj.GenerateResource.cache
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csproj.CoreCompileInputs.cache
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.csproj.CopyComplete
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.dll
+D:\Tài liệu\New project\ShopBack\ShopBack.Data\obj\Debug\ShopBack.Data.pdb
